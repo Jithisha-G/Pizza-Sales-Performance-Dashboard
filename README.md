@@ -1,9 +1,11 @@
 # Pizza-Sales-Performance-Dashboard
 
 ## Table of Contents
--[Project Overview](#project-overview)
+- [Project Overview](#project-overview)
+- [Dataset Used](#dataset-used)
+-  [Recommendations](#recommendations)
 
-### Project Objective
+### Project Overview
 This project aims to analyze pizza sales dataset to gain insights into business performance and key trends.
 
 ### Dataset Used
