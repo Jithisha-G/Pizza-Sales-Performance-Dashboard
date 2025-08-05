@@ -56,3 +56,6 @@ Pizza sales data: The primary dataset used for this analysis is the "pizza_sales
  * Strategic Promotions: Promote top sellers and re-evaluate or discontinue bottom sellers.
  * Fill Gaps: Future analysis should include costs and customer data for deeper insights.
  * Seasonal Planning: Use monthly trends to plan promotions during slower periods.
+ * 
+### Conclusion 
+The report provides key insights for business decisions. The analysis shows strong weekend sales, seasonal fluctuations, and which pizzas and size are most popular, helping to inform marketing, product and inventory strategies.
